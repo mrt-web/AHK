@@ -1,0 +1,16 @@
+{
+    "array": [
+        {
+            "id": 1,
+            "title": "lamp damp lamp damp lamp damp ",
+            "qty": 10,
+            "store": 3
+        },
+        {
+            "id": 2,
+            "title": "spot",
+            "qty": 1,
+            "store": 3
+        }
+    ]
+}
